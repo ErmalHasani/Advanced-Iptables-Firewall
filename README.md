@@ -38,7 +38,6 @@ This repository contains a comprehensive iptables firewall script designed to en
 Contributions are welcome! If you have suggestions for improvements, open an issue or fork the repository and submit a pull request.
 
 ## License
-This project is licensed under the License Name Here.
 
 This project is licensed under the [The GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) License.
 
