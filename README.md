@@ -23,6 +23,22 @@ This repository contains a comprehensive iptables firewall script designed to en
    cd <repository-directory>
    ```
 
-1. **Review and modify the script**:
+2. **Review and modify the script**:
    - Open **'iptables-script.sh'** and review each section.
+   - Modify IP ranges, port numbers, and specific rules to match your server environment.
+  
+3. **Execute the script**:
+   - Run the script with root privileges to apply the firewall rules:
+   ```sudo ./iptables-script.sh```
+
+4. **Verify**:
+   - After applying the rules, verify that your essential services are accessible and that unwanted traffic is effectively blocked.
+
+## Contributing
+Contributions are welcome! If you have suggestions for improvements, open an issue or fork the repository and submit a pull request.
+
+## License
+This project is licensed under the License Name Here.
+
+This project is licensed under the [The GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) License.
 
