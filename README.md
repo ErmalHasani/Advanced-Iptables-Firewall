@@ -19,7 +19,7 @@ This repository contains a comprehensive iptables firewall script designed to en
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/ErmalHasani/Advanced-Iptables-Firewall)
    cd <repository-directory>
    ```
 
