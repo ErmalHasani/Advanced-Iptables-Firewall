@@ -34,10 +34,12 @@ This repository contains a comprehensive iptables firewall script designed to en
 4. **Verify**:
    - After applying the rules, verify that your essential services are accessible and that unwanted traffic is effectively blocked.
 
+## Issues
+If you encounter any issues, please feel free to [open a issuie](https://github.com/ErmalHasani/Advanced-Iptables-Firewall/issues). Your feedback is valuable and helps us improve the project.
+
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements, open an issue or fork the repository and submit a pull request.
 
 ## License
-
 This project is licensed under the [The GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) License.
 
