@@ -24,3 +24,5 @@ This repository contains a comprehensive iptables firewall script designed to en
    ```
 
 1. **Review and modify the script**:
+   - Open **'iptables-script.sh'** and review each section.
+
