@@ -22,3 +22,5 @@ This repository contains a comprehensive iptables firewall script designed to en
    git clone <repository-url>
    cd <repository-directory>
    ```
+
+1. **Review and modify the script**:
